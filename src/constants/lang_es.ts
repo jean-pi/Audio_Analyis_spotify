@@ -11,7 +11,7 @@ export const IMG_SPOTIFY = {
 }
 
 // warning privacy
-export const TEXT_WARNING_PRIVACY = "By logging in you agree to this website having access to data and activity from your Spotify account."
+export const TEXT_WARNING_PRIVACY = "By logging in you agree to this website having access to data and activity from your Spotify account"
 export const LINK_WARNING_PRIVACY = {
     text: "Spotify privacy policy",
     url: "https://www.spotify.com/us/legal/privacy-policy/"
@@ -19,12 +19,12 @@ export const LINK_WARNING_PRIVACY = {
 
 // main text of landin page
 export const MAIN_TEXT_PRESENTATION = {
-    line1: "audio",
+    line1: "Audio",
     line2: "analysis",
     line3: "for",
     line4: "musicians"
 }   
-export const SECOND_TEXT_PRESENTATION = "recover tone, timbre, time signature and more, of your songs associated with your Spotify account."
+export const SECOND_TEXT_PRESENTATION = "recover tone, timbre, time signature and more of your songs associated with your Spotify account"
 
 
 // search bar 
