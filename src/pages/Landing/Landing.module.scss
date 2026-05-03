@@ -61,7 +61,7 @@
 
 
 .layerConnectAcount{
-    max-width: 18rem;
+    max-width: 20rem;
     display: flex;
     flex-direction: column;
     gap: .5rem;
@@ -80,7 +80,8 @@
         }
         &_a{
             color: $white_font;
-            display: block;
+            display: inline;
+            text-wrap-mode: nowrap;
             border: 1px solid #00000000;
             &:focus{
                 outline: 1px solid $white_focus;
